@@ -11476,4 +11476,7 @@ header.masthead {
   background-attachment: scroll;
   background-size: cover;
 }
+ul {
+  list-style-type:square;
+}
 
